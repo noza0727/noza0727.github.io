@@ -3,3 +3,11 @@ body{
 	color: #502D85;
 	font-family: Arial;
 }
+a{
+	color: #b34180;
+	text-decoration: none;
+}
+h2::before{
+	content: "";
+	margin-left: 24px;
+}
